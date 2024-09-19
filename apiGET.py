@@ -1,7 +1,7 @@
 # Importamos Flask
 from flask import Flask, request, jsonify
 
-# Creamos la instancia de la aplicación Flask
+# Creamos la instancia de la aplicación Flask instalada
 app = Flask(__name__)
 
 # Definimos una ruta y el método GET
